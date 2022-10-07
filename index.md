@@ -9,8 +9,6 @@
 
 ### This website mainly contains Cong Liu's short biography and so on. 
 
-### E-mail: liucong@snnu.edu.cn or albert.congliu@outlook.com.
-
 ### Thanks again for your attention!
 
 # Biography
